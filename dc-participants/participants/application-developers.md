@@ -1,0 +1,3 @@
+# Application Developers
+
+All application developers who create and release applications on the DC network are crucial to its ecosystem, even though they are not required to hold any DCT tokens from development through to the launch of their applications. These developers act as the vital link between users and the DC network, driving its ecological growth. As long as their applications maintain active users, developers can continuously earn revenue from the network. Moreover, all applications built on the DC network inherently feature decentralized capabilities, enhancing their functionality and user trust.

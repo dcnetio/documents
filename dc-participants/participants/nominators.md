@@ -1,0 +1,3 @@
+# Nominators
+
+All DCT token holders are eligible to become nominators, who play a crucial role in the DC chain by electing validators through staking their DCT tokens. Once validators are successfully elected and become active, they work to maintain the network and earn rewards. Nominators also benefit financially from this arrangement. Their income comes from the total rewards earned by the validators. After deducting the compensation for validators, the remaining rewards are distributed among the nominators according to the proportion of DCT they have staked. After staking their tokens, nominators do not need to take any further action.

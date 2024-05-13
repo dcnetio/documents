@@ -1,0 +1,5 @@
+# DC Architecture
+
+DC is a peer-to-peer (P2P) network that can scale horizontally without limits, with nodes having the flexibility to join or exit freely. By integrating Trusted Execution Environment (TEE) technology with the NPOS consensus mechanism, DC aims to deliver a secure and efficient blockchain solution. This approach addresses the traditional limitations of blockchain technology in terms of processing speed and data storage capacity. The innovative combination of these consensus mechanisms lays a robust foundation for the development and application of DC.
+
+The structure of DC comprises two main components: DCChain and DCNode. DCChain is a blockchain network tasked with managing DC's account system, incentive mechanisms, and data indexing mechanisms. DCNode, on the other hand, serves as a cloud service node. Multiple DCNodes together form the decentralized cloud service network of DC, offering decentralized cloud services to users through the systems and mechanisms provided by DCChain.
