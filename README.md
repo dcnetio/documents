@@ -7,3 +7,28 @@ One of the core features of DC is the use of blockchain technology to provide co
 DC offers a full-stack ecosystem that includes various layers such as the incentive layer (consensus), network layer, persistence layer (storage), and application layer (computing). This structure provides developers with a familiar environment similar to traditional internet development, but with the capabilities to create decentralized applications (DApps).
 
 The user experience of DApps built on the DC platform is designed to be as intuitive and seamless as using conventional internet applications. This approach not only simplifies the transition for developers but also ensures that end-users can easily adapt to the new decentralized environment. Overall, DC provides a highly convenient and efficient decentralized network infrastructure for developing and deploying applications.
+
+**Resources:**
+
+Website: [https://www.dcnetio.cloud](https://www.dcnetio.cloud)
+
+Explorer:[ ](https://dcnetio.baybird.cn/)[https://dcnetio.baybird.cn](https://dcnetio.baybird.cn/)
+
+GitHub: [https://github.com/dcnetio](https://github.com/dcnetio)
+
+**Social:**
+
+Twitter: [https://twitter.com/dcnetio](https://twitter.com/dcnetio)
+
+Discord: [https://discord.gg/DZ7Gp5Fn](https://discord.gg/DZ7Gp5Fn)
+
+Telegram: [https://t.me/dcnetio](https://t.me/dcnetio)
+
+Medium: [https://medium.com/@dcnetio](https://medium.com/@dcnetio)
+
+Youtube: [https://www.youtube.com/@dcnetio](https://www.youtube.com/@dcnetio)
+
+**Articles:**
+
+* White paper: [https://github.com/dcnetio/whitepaper](https://github.com/dcnetio/whitepaper)
+
