@@ -11,7 +11,7 @@
 
 **Phase 2: Development of Core Infrastructure**
 
-* **Duration**: March 2021 to October 2022
+* **Duration**: March 2021 to October 2023
 * **Objective**: Develop the foundational decentralized infrastructure, including the consensus, network, storage, and computing layers.
 * **Activities**:
   * **Designing the Architecture**: Create the blueprint for the decentralized network that will support the various functionalities of the DC platform.
@@ -19,9 +19,9 @@
   * **Implementing Storage and Computing Protocols**: Set up the initial protocols for data storage and computational processes, which are essential for the functioning of the decentralized network.
   * **Initial Testing and Iteration**: Conduct preliminary tests on the core components to identify and resolve issues, and refine the system through iterative improvements based on testing outcomes.
 
-**Phase 3: Alpha and Beta Testing**
+_<mark style="color:blue;">**Phase 3: Alpha and Beta Testing**</mark>_
 
-* **Duration**: November 2022 to November 2023
+* **Duration**: November 2023 to November 2024
 * **Objective**: Test the infrastructure with real users and workloads in controlled environments to ensure stability, scalability, and usability.
 * **Activities**:
   * **Launching an Alpha Version**: Deploy an internal testing version of the platform to evaluate its basic functionality and core features. This step allows for initial debugging and system validation by the development team.
@@ -30,9 +30,9 @@
   * **Performing Rigorous Stress Testing**: Conduct extensive stress tests to determine the system’s response under extreme conditions and heavy loads, ensuring reliability and performance benchmarks are met.
   * **Making Necessary Adjustments and Improvements**: Implement changes and improvements based on the insights and data gathered through testing and feedback. This iterative process helps in refining the platform before a full public release.
 
-_<mark style="color:purple;">**Phase 4: Public Launch and Initial Deployment**</mark>_
+**Phase 4: Public Launch and Initial Deployment**
 
-* **Duration**: December 2023 to November 2024
+* **Duration**: December 2024 to November 2025
 * **Objective**: Officially launch the DC platform and onboard initial users, while also facilitating the development and deployment of Web3.0 applications.
 * **Activities**:
   * **Launching Marketing Campaigns**: Execute targeted marketing campaigns to attract both users and developers to the platform, highlighting the innovative features and benefits of the DC platform.
